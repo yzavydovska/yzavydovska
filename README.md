@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yuliia from <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflagpoles.co.uk%2Fproduct%2Fukraine-flag%2F&psig=AOvVaw2GEJirvKFWBblr8czDDGC-&ust=1706636312225000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjv_uqRg4QDFQAAAAAdAAAAABAE)" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Poland</b>. </p>
+<p>Welcome to my page! </br> I'm Yuliia from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Poland</b>. </p>
 <h3>Things I code with</h3>
 <p>
   
