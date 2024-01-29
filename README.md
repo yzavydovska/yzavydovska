@@ -1,31 +1,72 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-![image](https://github.com/yzavydovska/yzavydovska/assets/139070277/461739ee-b45f-42aa-a93f-ce43bd13655e)<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page! </br> I'm Yuliia from <img src="https://flagpoles.co.uk/wp-content/uploads/2019/06/Ukraine.png" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Poland</b>. </p>
-<h3>Things I code with</h3>
-<p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" align="center" style="width: 100%" />
+</div>  
   
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-## ⚡ Technologies
+### <div align="center">Welcome to my page!
+I'm Yuliia, ambitious student from Ukraine, currently living in Poland 🇵🇱 Prepared for the dynamic IT environment 👌 My activities are much beyond my stream of education 🌐</div>  
+  
+
+-  📘I’m currently studying at Collegium Da Vinci 🏫  
+  
+
+- 🌍 Love for science and innovation   
+  
+
+- ⛷️I enjoy skiing and reading books 🏅  
+  
+
+<br/>  
 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ffc47c45-e0ba-4c50-8684-9ab688fad82f.png?auto=format&q=50&fit=fill)
-![Zbrush](https://th.bing.com/th/id/R.72c6b6042d98b3cafc2d326372c86c7b?rik=jfkJImXUKySMKQ&pid=ImgRaw&r=0)
-![Linux](https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux)
-![Linux](logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0)
-![C#](https://th.bing.com/th/id/OIP.PxOpYdbKTuxC0sBmf9HalAHaGl?rs=1&pid=ImgDetMain)
-![Blender]([https://th.bing.com/th/id/OIP.PxOpYdbKTuxC0sBmf9HalAHaGl?rs=1&pid=ImgDetMain](https://www.pinclipart.com/picdir/middle/165-1657534_sculpting-clipart.png))
+## My Skill Set  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>  
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 29 January, 16:00 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<br/>  
+
+
+## Contact with me  
+<div align="center">
+<a href="https://github.com/yzavydovska" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yuliia-zavydovska-18a234262" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100086562906905" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yzavydovska&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+## Spotify activity
+
+
+
+
+
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sfscfdjkh3l2jsbiu5jx2xebmy&cover_image=true&theme=novatorem&show_offline=false&background_color=e8e8e8&interchange=false&bar_color=050505&bar_color_cover=false" /></div>  
+
+<br/>  
+
+
