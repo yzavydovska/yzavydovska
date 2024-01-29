@@ -55,18 +55,11 @@ I'm Yuliia, ambitious student from Ukraine, currently living in Poland 🇵🇱 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yzavydovska&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+<!--
 ## Spotify activity
-
-
-
-
-
-  
-
 <br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sfscfdjkh3l2jsbiu5jx2xebmy&cover_image=true&theme=novatorem&show_offline=false&background_color=e8e8e8&interchange=false&bar_color=050505&bar_color_cover=false" /></div>  
-
 <br/>  
-
+-->
 
